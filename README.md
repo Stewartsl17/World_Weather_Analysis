@@ -25,11 +25,11 @@ The destinations that we pulled were:
 * Pacific Grove (Country: US)
 * Russell(Country: US)
 
-* Dataframe of hotels 
+### Dataframe of hotels 
 ![](https://github.com/Stewartsl17/World_Weather_Analysis/blob/master/Image/Travel%20Dest%20-%20Hotels.png)
 
 We then took these hotels and plotted them on a marker layer map which shows the destinations with pop-up markers. 
 
-* Map of hotels 
+### Map of hotels 
 ![](https://github.com/Stewartsl17/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
