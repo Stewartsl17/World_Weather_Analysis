@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For this project, we used Python and API Keys to retrieve weather data, create a map with a variety travel destination map, and finished with an itinerary map. 
+For this project, we used Python and API Keys to retrieve weather data, create a map with a variety travel destination map, and finished with an creating a marker layer itinerary map. 
 
 ### Resources 
 
