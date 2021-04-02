@@ -23,7 +23,7 @@ The destinations that we pulled were:
 * Rosebud (Country: US)
 * Beaupre (Country: CA)
 * Pacific Grove (Country: US)
-* Russell(Country: US)
+* Russell (Country: US)
 
 ### Dataframe of hotels 
 ![](https://github.com/Stewartsl17/World_Weather_Analysis/blob/master/Image/Travel%20Dest%20-%20Hotels.png)
@@ -33,3 +33,4 @@ We then took these hotels and plotted them on a marker layer map which shows the
 ### Map of hotels 
 ![](https://github.com/Stewartsl17/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
+![image](https://user-images.githubusercontent.com/66918641/113461955-c3b64780-93ec-11eb-90a1-7d9144283c5f.png)
